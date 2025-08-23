@@ -1,0 +1,50 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage & test
+coverage/
+.nyc_output
+*.lcov
+
+# Environment variables
+.env
+.env.test
+.env.local
+
+# Build / cache
+dist/
+build/
+tmp/
+temp/
+.cache/
+.next/
+out/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: lock files (if you don’t want to commit them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
